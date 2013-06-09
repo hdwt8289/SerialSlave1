@@ -5,7 +5,7 @@ import java.util.Vector;
 
 
 public class Slave {
-        //////test 11   qweqwewqeqwe
+        //////test 11   qweqwewqeqwe   aaaaaaaa
     public static void main(String[] args) throws Exception {
         try {
             UIManager.setLookAndFeel("com.sun.java.swing.plaf.windows.WindowsLookAndFeel");
